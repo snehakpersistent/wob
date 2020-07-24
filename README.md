@@ -104,4 +104,4 @@ See the wiki for useful scripts.
 
 ## License
 
-ISC, see [LICENSE](/LICENSE).
+ISC, see [LICENSE](/LICENSE)
