@@ -100,7 +100,7 @@ Brightness using [haikarainen/light](https://github.com/haikarainen/light):
 bindsym XF86MonBrightnessUp exec light -A 5 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
 bindsym XF86MonBrightnessDown exec light -U 5 && light -G | cut -d'.' -f1 > $SWAYSOCK.wob
 ```
-See the wiki for useful scripts.
+See the wiki for useful scripts...
 
 ## License
 
